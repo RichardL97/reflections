@@ -16,6 +16,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	If you want to modify refactory for diffrent purpose at the same time, branches will help by making commit history fork giving commit a readerble name. 
 
 How do the diagrams help you visualize the branch structure?
 
