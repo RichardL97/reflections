@@ -7,3 +7,9 @@ than having Git automatically stay up-to-date with your
 remote repository?
 
 No idea. Why?
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Forks is used in github, clones is when you copy repository
+from remote device like github to your local computer.
